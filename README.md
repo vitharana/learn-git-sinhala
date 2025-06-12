@@ -1,2 +1,5 @@
 # learn-git-sinhala
-Lets learn github
+## Lets learn github
+
+---
+Hello Welcome!
